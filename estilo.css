@@ -1,0 +1,93 @@
+.dias{
+    background-color: cyan;
+}
+.horario{
+    background-color: rgb(11, 126, 11);
+}
+.info{
+    background-color: rgb(194, 226, 14);
+}
+.mates{
+    background-color: rgb(185, 39, 20);
+}
+.ingles{
+    background-color: rgb(83, 104, 223);
+}
+.tecno{
+    background-color: rgb(212, 30, 197);
+}
+.bio{
+    background-color: rgb(95, 128, 7);
+}
+.historia{
+    background-color: rgb(235, 103, 99);
+}
+.fyq{
+    background-color: rgb(121, 46, 190);
+}
+.reli{
+    background-color: brgb(20, 175, 123);
+}
+.caste{
+    background-color: rgb(7, 129, 129);
+}
+.ef{
+    background-color: rgb(106, 240, 17);
+}
+.patio{
+    background-color: rgb(224, 157, 11);
+}
+.valen{
+    background-color: rgb(224, 11, 93);
+}
+.TUTORIA{
+    background-color: rgb(3, 145, 228);
+}
+.tabla-horario{
+    /* Me sirve para indicar que los bordes de las celdas no deben estar separados */
+    border-collapse: collapse;
+}
+
+.tabla-horario td, .tabla-horario th{
+    /* Especifico el borde de las celdas, para la tabla con clase "tabla-horario" */
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+}
+.color-info{
+    background-color: rgb(194, 226, 14);
+}
+.color-mates{
+    background-color: rgb(185, 39, 20);
+}
+.color-ingles{
+    background-color: rgb(83, 104, 223);
+}
+.color-tecno{
+    background-color: rgb(212, 30, 197);
+}
+.color-bio{
+    background-color: rgb(95, 128, 7);
+}
+}
+.color-historia{
+    background-color: rgb(235, 103, 99);
+}
+.color-fyq{
+    background-color: rgb(121, 46, 190);
+}
+.color-reli{
+    background-color: brgb(20, 175, 123);
+}
+.color-caste{
+    background-color: rgb(7, 129, 129);
+}
+.color-ef{
+    background-color: rgb(106, 240, 17);
+}
+.color-valen{
+    background-color: rgb(224, 11, 93);
+}
+.color-TUTORIA{
+    background-color: rgb(3, 145, 228);
+}
